@@ -11,6 +11,7 @@ import java.util.Scanner;
  *
  * NIM : 10119065
  * NAMA : FACHRIANSYAH MUH NUR I
+ * Tanggal : 20-02-2021
  * KELAS : IF2
  * NOMOR SOAL : 4
  */
